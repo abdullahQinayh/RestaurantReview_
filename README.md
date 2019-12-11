@@ -14,7 +14,7 @@ open index.html in the browser
 
 - open command line 
 - write  python -m SimpleHTTPServer 8000
--  visit the site: http://localhost:8000 but don't close the command line 
+-  visit the site: 'http://localhost:8000' but don't close the command line 
 
 
 
